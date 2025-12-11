@@ -16,7 +16,7 @@ import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/nextjs.png";
 import Tools9 from "/assets/tools/reactjs.png";
 import Tools10 from "/assets/tools/golang.png";
-import Tools11 from "/assets/tools/.net.png";
+import Tools11 from "/assets/tools/net.png";
 import Tools12 from "/assets/tools/tailwind.png";
 import Tools13 from "/assets/tools/bootstrap.png";
 import Tools14 from "/assets/tools/postgre.png";
