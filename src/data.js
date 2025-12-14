@@ -243,6 +243,7 @@ import Sertifikat5 from "/assets/sertifikat/sertifikat-dasar.png";
 import Sertifikat6 from "/assets/sertifikat/sertifikat-k3.png";
 import Sertifikat7 from "/assets/sertifikat/sertifikat-pkl.jpg";
 import Sertifikat8 from "/assets/sertifikat/sertifikat-be-golang.jpg";
+import Sertifikat9 from "/assets/sertifikat/sertifikat-juniorcoder.jpeg";
 
 export const listSertifikat = [
   {
@@ -292,5 +293,11 @@ export const listSertifikat = [
     gambar: Sertifikat8,
     nama: "Backend with Golang",
     dad: "800",
+  },
+  {
+    id: 9,
+    gambar: Sertifikat9,
+    nama: "Junior Coder",
+    dad: "900",
   },
 ];
