@@ -74,13 +74,13 @@ export const listTools = [
     ket: "JavaScript Runtime",
     dad: "700",
   },
-  {
-    id: 8,
-    gambar: Tools8,
-    nama: "Next Js",
-    ket: "React Framework",
-    dad: "800",
-  },
+  // {
+  //   id: 8,
+  //   gambar: Tools8,
+  //   nama: "Next Js",
+  //   ket: "React Framework",
+  //   dad: "800",
+  // },
   {
     id: 9,
     gambar: Tools9,
